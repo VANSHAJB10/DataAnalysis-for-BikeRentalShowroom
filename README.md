@@ -1,5 +1,5 @@
 # DataAnalysis-for-BikeRentalShowroom [SQL]
- <img src = "https://drive.google.com/file/d/1sJ9jRKKkMy3xJRSBXFvBJpNl5AOu2i-l/view?usp=sharing">
+ <img src = "sql_analysis_readme_img.png">
  <br>
 ## Project Overview
 
