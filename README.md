@@ -1,6 +1,7 @@
 # DataAnalysis-for-BikeRentalShowroom [SQL]
  <img src = "sql_analysis_readme_img.png">
  <br>
+ 
 ## Project Overview
 
 This project is focused on analyzing a dataset from a bike rental shop to provide insights that can help the shop owner, James, grow his business. <br>
